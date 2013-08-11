@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://applecode.github.io/sitemap.xml 
